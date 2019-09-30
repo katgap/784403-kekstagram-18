@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Екатерина Гапонова](https://up.htmlacademy.ru/javascript/18/user/784403).
-* Наставник: `Неизвестно`.
+* Наставник: Максим Лыков.
 
 ---
 
